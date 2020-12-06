@@ -1,0 +1,119 @@
+main
+{
+    width: 100%;
+    height: 50%;
+
+}
+
+header
+{
+    margin-bottom: 20px;
+}
+
+header h1
+{
+    text-align: center;
+}
+
+header img
+{
+    position: relative;
+    left: 35%;
+    width: 30%;
+}
+
+body
+{
+    height: 75%;
+}
+
+aside
+{
+    width: 49%;
+}
+
+#club
+{
+    display: block;
+    float: left;
+}
+
+#club h2,h3 
+{
+    text-align: center;
+}
+
+#club img
+{
+    position: relative;
+    left: 375px;
+    bottom: -35px;
+    width: 200px;
+    height: 200px;
+}
+
+#club nav 
+{
+    border: black 1px solid;
+    border-radius: 6px;
+    position: relative;
+    left: 280px;
+    bottom: -70px;
+    background-color: greenyellow;
+    text-align: center;
+    width: 40%;
+}
+
+#club nav a
+{
+    padding: 10px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#club nav a:hover
+{
+    text-align: center;
+    background-color:white;
+    border-radius: 6px;
+    margin: 0;
+    padding: 0;
+}
+
+#Noticias
+{
+    right: 10px;
+    position: relative;
+    display: block;
+    float: right;
+}
+
+#Noticias h2
+{
+    text-align: center;
+}
+
+#Noticias article
+{
+    margin: 10px;
+    padding: 10px;
+    text-align: justify;
+}
+
+#Noticias h3
+{
+    text-align: left;
+}
+
+#Noticias a 
+{
+    text-decoration: none;
+    text-transform: capitalize;
+    text-shadow: 1px;
+    color:green;
+}
+
+footer
+{
+    clear: both;
+}

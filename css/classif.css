@@ -1,0 +1,43 @@
+header
+{
+    margin-bottom: 20px;
+}
+
+header h1
+{
+    text-align: center;
+}
+
+header img
+{
+    position: relative;
+    left: 35%;
+    width: 30%;
+}
+table caption
+{
+    text-transform: uppercase;
+    font-weight: bold;
+    background-color: black;
+    color: chartreuse;
+    width: 100%;
+}
+
+table
+{
+    border: black 1px solid;
+    text-align: center;
+    position: relative;
+    left: 625px;
+    vertical-align: middle;
+}
+th
+{
+    padding: 10px;
+}
+
+td
+{
+    padding-bottom: 30px;
+    vertical-align: middle;
+}

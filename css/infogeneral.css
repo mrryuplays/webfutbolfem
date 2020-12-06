@@ -1,0 +1,109 @@
+header
+{
+    margin-bottom: 20px;
+}
+
+header h1
+{
+    text-align: center;
+}
+
+header img
+{
+    position: relative;
+    left: 35%;
+    width: 30%;
+}
+
+body
+{
+    height: 75%;
+}
+
+div
+{
+    text-align: center;
+    position: relative;
+    left: 5px;
+}
+
+div a
+{
+    display: block;
+    font-weight: bold;
+    text-decoration: none;
+    position: relative;
+    left: 180px;
+    border: black 1px solid;
+    border-radius: 6px;
+    background-color: greenyellow;
+    text-align: center;
+    width: 40%;
+}
+
+div a:hover
+{
+    background-color: white;
+}
+#escudo
+{
+    width:33%;
+    float: left;
+    margin: 0;
+    padding: 0;
+}
+
+#presidente
+{
+    width:33%;
+    float: left;
+    margin: 0;
+    padding: 0;
+}
+
+#presidente img
+{
+    width: 17%;
+}
+
+#estadio
+{
+    width:33%;
+    float: left;
+    margin: 0;
+    padding: 0;
+}
+
+#estadio img
+{
+    width: 40%;
+}
+
+section
+{
+    display: block;
+    clear: both;
+    text-align: justify;
+}
+
+section h3
+{
+    position: relative;
+    left: 30px;
+    top: 50px;
+    display: block;
+    width: 15%;
+    text-align: left;
+    background-color: black;
+    color: chartreuse;
+    height: 10%;
+    margin-bottom: 30px;
+}
+
+section p
+{
+    display: block;
+    height: 30%;
+    text-align: justify;
+    padding: 30px;
+}

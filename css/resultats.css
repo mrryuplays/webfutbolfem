@@ -1,0 +1,52 @@
+header
+{
+    margin-bottom: 20px;
+}
+
+header h1
+{
+    text-align: center;
+}
+
+header img
+{
+    position: relative;
+    left: 35%;
+    width: 30%;
+}
+
+main h2
+{
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+table caption
+{
+    padding-bottom: 10px;
+    width: 100%;
+    background-color: black;
+    color: chartreuse;
+}
+
+table
+{
+    border: black 1px solid;
+    text-align: center;
+    position: relative;
+    left: 720px;
+    vertical-align: middle;
+    margin-bottom: 10px;
+}
+
+th
+{
+    padding: 10px;
+}
+
+td
+{
+    padding-left: 10px;
+    padding-right: 10px;
+    vertical-align: middle;
+}
